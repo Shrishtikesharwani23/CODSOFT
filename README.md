@@ -1,2 +1,3 @@
 # CODSOFT
-new repository
+I developed a simple calculator by c++
+
